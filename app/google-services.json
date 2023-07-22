@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033054097239",
+    "project_id": "hovor-c020b",
+    "storage_bucket": "hovor-c020b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033054097239:android:524be8622e7794251e3812",
+        "android_client_info": {
+          "package_name": "com.example.hovor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033054097239-bloelk9ebvoutrgm29kjldt432mao2ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQgYZGhkrYBd6vORuei_UJkmRa9YCoRuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033054097239-bloelk9ebvoutrgm29kjldt432mao2ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

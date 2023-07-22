@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">hovor</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+
+    <string name="title">Hovor</string>
+    <string name="title2">SignUp to Hovor</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="ready">If you already have an account</string>
+    <string name="email">Your Email</string>
+    <string name="name">Your Full Name</string>
+    <string name="password">Your Password</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="notReady">I dont have an account</string>
+    <string name="password123">password</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="ready_up">to get started with the app</string>
+    <string name="notready_up">I already have an account</string>
+    <string name="hovering_over_hover">Hovering over Hover</string>
+    <string name="Name">Name</string>
+    <string name="_23_07">23:07</string>
+    <string name="hello">Hello</string>
+    <string name="_23_17">23:17</string>
+    <string name="Hello">Hello</string>
+    <string name="chat">Chat</string>
+    <string name="status">Status</string>
+    <string name="call">Call</string>
+    <string name="logout">Logout</string>
+    <string name="expand_or_collapse_content">Expand or collapse content</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="emoji_button_description">emoji_button_description</string>
+    <string name="camera_button_description">camera_button_description</string>
+    <string name="file_button_description">file_button_description</string>
+    <string name="send_button_description">send_button_description</string>
+    <string name="message_writing_space">message_writing_space</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="re_enter_your_password">Re-enter Your Password</string>
+
+</resources>
